@@ -1,0 +1,1 @@
+In this assignment, we were to refactor code that was provided to us with Semantic HTML and clean up the .CSS code to make the file as neat as we could. Once I understood the requirements of the homework, I found it engaging and a good way to see how Web Developers would work on a day to day to clean up any potential issues in messy code.
